@@ -76,7 +76,7 @@ def main():
         for condition in found_conditions:
             conditions_dict.setdefault(condition, []).append((pdf_file, ''))  # Line info not available yet
 
-    # Report conditions to tabl
+    # Report conditions to table
     report_conditions_to_table(conditions_dict)
 
 if __name__ == "__main__":
