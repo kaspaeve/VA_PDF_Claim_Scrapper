@@ -1,6 +1,6 @@
 # VA PDF Claim Scrapper
 
-This project aims to extract medical conditions from a collection of PDF files containing medical records.
+This project aims to extract VA medical conditions from a collection of PDF files containing medical records.
 
 ## Features
 
