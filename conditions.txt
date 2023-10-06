@@ -1,0 +1,1665 @@
+Abnormal Heart
+
+Abnormal Mitral Valve
+
+Abnormal Weight Loss
+
+Abscess, Brain
+
+Abscess, Kidney
+
+Abscess, Liver
+
+Acne
+
+Acromegaly
+
+Acute Nonlymphocytic Leukemia
+
+Addison’s Disease
+
+Adenocarcinoma
+
+Adenomyoepithelioma
+
+Adhesions
+
+Adhesions – Digestive
+
+Adhesions – Gynecological
+
+Adhesions – Heart/Veins/Arteries
+
+Adhesions – Neurological Other System
+
+Adhesions – Respiratory
+
+Administrative Issue
+
+Aging
+
+Agoraphobia
+
+AIDS
+
+Alcohol Abuse
+
+Allergies
+
+Amyotrophic lateral sclerosis (ALS)
+
+Alveolar Abscesses
+
+Amebiasis
+
+Amputation
+
+Amputation – Above Knee
+
+Amputation – Arm, Forearm, Hand
+
+Amputation – Below Knee
+
+Amputation – Foot (Feet)
+
+Amputation – Leg(s)
+
+Amputation – Multiple Fingers
+
+Amputation – Single Finger
+
+Amputation – Toe (Toes)
+
+Amyotrophic Lateral Sclerosis
+
+Anatomical Loss
+
+Anemia, Primary
+
+Aneurysm
+
+Aneurysm – Heart/Veins/Arteries
+
+Aneurysm – Neurological Other System
+
+Angina
+
+Ankle Condition, Bilateral
+
+Ankle Condition, Left
+
+Ankle Condition, Right
+
+Ankle Sprain
+
+Ankle Strain
+
+Anxiety Condition
+
+Arm Condition – Heart/Veins/Arteries
+
+Arm Condition – Neurological Other System
+
+Arm Condition, Bilateral
+
+Arm Condition, Left
+
+Arm Condition, Right
+
+Arrhythmia
+
+Arteriosclerosis
+
+Arteriosclerosis Obliterans
+
+Arteriosclerotic Heart Disease
+
+Arthritis
+
+Arthritis, Degenerative
+
+Arthritis, Due To Trauma
+
+Asbestosis (Asbestos Disease)
+
+Arteriosclerotic Heart Disease (ASHD)
+
+Asthma
+
+Atherosclerosis
+
+Atherosclerotic Peripheral Vascular Disease
+
+Athlete’s Foot
+
+Atrophy, Progressive Muscular
+
+Avitaminosis
+
+Back Condition
+
+Back Injury
+
+Back Sprain
+
+Back Strain
+
+Basaloma
+
+Bell’s Palsy
+
+Beriberi (Including Beriberi Heart Disease)
+
+Bipolar Disorder
+
+Birth Defect In Child
+
+Blackwater Fever
+
+Bladder Condition
+
+Bladder Stone(s)
+
+Blindness (Including Light Perception Only)
+
+Blood Clot(s)
+
+Boeck’s Disease
+
+Bone Atrophy
+
+Bone Condition
+
+Bone Fracture(s)
+
+Bowel Condition
+
+Brain Hemorrhage
+
+Brain Thrombosis
+
+Brain Tumor(s)
+
+Breast Condition, Bilateral
+
+Breast Condition, Left
+
+Breast Condition, Right
+
+Bronchiectasis
+
+Bronchitis
+
+Bruise
+
+Buerger’s Disease
+
+Bulbar Palsy
+
+Burn(s)
+
+Bursitis
+
+Coronary Artery Disease (CAD)
+
+Caisson
+
+Caisson Disease
+
+Calculus – Bladder
+
+Calculus – Gallbladder
+
+Calculus – Kidney
+
+Cancer
+
+Cancer – Bile Ducts
+
+Cancer – Bone
+
+Cancer – Brain
+
+Cancer – Breast
+
+Cancer – Bronchus
+
+Cancer – Cheek
+
+Cancer – Colon
+
+Cancer – Dental And Oral
+
+Cancer – Digestive
+
+Cancer – Ear Disease And Other Sense Organs
+
+Cancer – Endocrine
+
+Cancer – Esophagus
+
+Cancer – Eye (Vision)
+
+Cancer – Gall Bladder
+
+Cancer – Gastrointestinal Tract
+
+Cancer – Genitourinary
+
+Cancer – Gum
+
+Cancer – Gynecological
+
+Cancer – Heart/Veins/Arteries
+
+Cancer – Hemic And Lymphatic
+
+Cancer – Kidney
+
+Cancer – Larynx
+
+Cancer – Lip
+
+Cancer – Liver
+
+Cancer – Lung
+
+Cancer – Lymph Nodes
+
+Cancer – Musculoskeletal – Ankle
+
+Cancer – Musculoskeletal – Elbow
+
+Cancer – Musculoskeletal – Foot
+
+Cancer – Musculoskeletal – Hand
+
+Cancer – Musculoskeletal – Hip
+
+Cancer – Musculoskeletal – Knee
+
+Cancer – Musculoskeletal – Mid/Lower Back (Thoracolumbar Spine)
+
+Cancer – Musculoskeletal – Neck/Upper Back (Cervical Spine)
+
+Cancer – Musculoskeletal – Other
+
+Cancer – Musculoskeletal – Shoulder
+
+Cancer – Musculoskeletal – Wrist
+
+Cancer – Musculoskeletal And Muscle Injuries
+
+Cancer – Nasopharyngeal
+
+Cancer – Neurological Other System
+
+Cancer – Ovarian
+
+Cancer – Pancreas
+
+Cancer – Pharyngolaryngeal
+
+Cancer – Pharynx
+
+Cancer – Prostate
+
+Cancer – Rectum
+
+Cancer – Renal Pelves
+
+Cancer – Respiratory
+
+Cancer – Salivary Gland
+
+Cancer – Skin
+
+Cancer – Small Intestine
+
+Cancer – Squamous Cell, Of The Skin
+
+Cancer – Stomach
+
+Cancer – Testicle
+
+Cancer – Thyroid
+
+Cancer – Tongue
+
+Cancer – Trachea
+
+Cancer – Ureters
+
+Cancer – Urethra
+
+Cancer – Urinary Bladder
+
+Cancer – Urinary Tract
+
+Cancer – Urogenital System (Except Prostate)
+
+Carate (Aka Pinta)
+
+Carcinoma
+
+Cardiovascular Disease
+
+Cardiovascular Signs Or Symptoms
+
+Carpal Tunnel Syndrome
+
+Cartilage
+
+Cataract
+
+Cataracts, Posterior Subcapsular
+
+Catarrhal Fever (Common Cold)
+
+Cavity
+
+Central Nervous System Tumors
+
+Cerebral Accident
+
+Cerebral Hemorrhage
+
+Cerebral Vascular Accident
+
+Cerebrovascular Accident
+
+Cerebrovascular Hemorrhage
+
+Cervical Sprain
+
+Cervical Strain
+
+Cervicitis
+
+Chest Pain
+
+Congestive Heart Failure (CHF)
+
+Chloracne Or Other Acneform Disease Consistent W/ Chloracne
+
+Chloroma
+
+Cholangiocarcinoma
+
+Cholangioma
+
+Cholangitis
+
+Cholecystitis
+
+Cholera
+
+Choriocarcinoma
+
+Choroiditis
+
+Chronic Fatigue Syndrome
+
+Chronic Lymphocytic Leukemia
+
+Chronic Obstructive Pulmonary Disease
+
+Chronic Organic Brain Syndrome
+
+Chronic Renal Disease
+
+Cirrhosis Of Liver
+
+Clavicle
+
+Clots
+
+Coccidiodomycosis
+
+Cold
+
+Cold Injury Residuals
+
+Colitis
+
+Colon Syndrome, Irritable
+
+Combat Fatigue
+
+Combat Neurosis
+
+Comedocarcinoma
+
+Competency
+
+Congestive Heart Failure
+
+Conjunctivitis
+
+Cor Pulmonale
+
+Corneal Opacities
+
+Coronary
+
+Coronary Accident
+
+Coronary Artery Bypass
+
+Coronary Artery Disease
+
+Costochondritis
+
+Cushing’s Syndrome
+
+Cerebrovascular Accident (CVA)
+
+Cyclitis
+
+Cylindroma
+
+Cyst
+
+Cyst/Benign Growth – Dental And Oral
+
+Cyst/Benign Growth – Digestive
+
+Cyst/Benign Growth – Ear Disease And Other Sense Organs
+
+Cyst/Benign Growth – Endocrine
+
+Cyst/Benign Growth – Eye (Vision)
+
+Cyst/Benign Growth – Genitourinary
+
+Cyst/Benign Growth – Gynecological
+
+Cyst/Benign Growth – Heart/Veins/Arteries
+
+Cyst/Benign Growth – Hemic And Lymphatic
+
+Cyst/Benign Growth – Musculoskeletal – Ankle
+
+Cyst/Benign Growth – Musculoskeletal – Elbow
+
+Cyst/Benign Growth – Musculoskeletal – Foot
+
+Cyst/Benign Growth – Musculoskeletal – Hand
+
+Cyst/Benign Growth – Musculoskeletal – Hip
+
+Cyst/Benign Growth – Musculoskeletal – Knee
+
+Cyst/Benign Growth – Musculoskeletal – Mid/Lower Back (Thoracolumbar Spine)
+
+Cyst/Benign Growth – Musculoskeletal – Neck/Upper Back (Cervical Spine)
+
+Cyst/Benign Growth – Musculoskeletal – Other
+
+Cyst/Benign Growth – Musculoskeletal – Shoulder
+
+Cyst/Benign Growth – Musculoskeletal – Wrist
+
+Cyst/Benign Growth – Musculoskeletal And Muscle Injuries
+
+Cyst/Benign Growth – Neurological Other System
+
+Cyst/Benign Growth – Respiratory
+
+Cyst/Benign Growth – Skin
+
+Cystitis
+
+Deafness, Nerve
+
+Degenerative Arthritis
+
+Dehydration
+
+Dementia
+
+Dental Abscesses
+
+Dental and Oral
+
+Dental and Oral – Musculoskeletal
+
+Depression
+
+Depressive Neurosis
+
+Dermatitis
+
+Diabetes
+
+Diabetes Insipidus
+
+Diabetes Mellitus
+
+Diabetes Mellitus, Type 2
+
+Diabetes, Adult-Onset
+
+Diarrhea
+
+Digestive
+
+Digestive Disorder
+
+Disarticulation
+
+Discoid Lupus
+
+Diverticulitis
+
+Dizziness
+
+Dracontiasis
+
+Dracunculiasis
+
+Drug Abuse
+
+Dysentery
+
+Dysthymic Disorder
+
+Ear Condition
+
+Ear Disease And Other Sense Organs
+
+Ear Infection
+
+Ears-Ringing
+
+Eating Disorder
+
+Eating Disorders
+
+Eczema
+
+Elbow Condition, Bilateral
+
+Elbow Condition, Left
+
+Elbow Condition, Right
+
+Elbow Sprain
+
+Elbow Strain
+
+Embolism
+
+Embolism, Brain
+
+Embolism/Infarction – Heart/Veins/Arteries
+
+Embolism/Infarction – Neurological Other System
+
+Emphysema
+
+Encephalitis, Lethargica Residuals
+
+Endocarditis
+
+Endocrine
+
+Endocrinopathy
+
+Endometriosis
+
+Endothelioma
+
+Enucleation
+
+Epididymitis
+
+Epilepsy
+
+Epithelioma
+
+Erythematosus Lupus
+
+Esophageal Condition
+
+Eye (Vision)
+
+Eye Condition, Bilateral
+
+Eye Condition, Left
+
+Eye Condition, Right
+
+Eye Disease
+
+Facial Injury
+
+Fallen Arches, Bilateral
+
+Fallen Arches, Left
+
+Fallen Arches, Right
+
+Fatigue
+
+Feet
+
+Fibromyalgia
+
+Fibrosis
+
+Fibrosis, Interstitial Pulmonary
+
+Filariasis
+
+Finger(s)
+
+Flatfoot, Bilateral
+
+Flatfoot, Left
+
+Flatfoot, Right
+
+Flu
+
+Flu-Like Conditions
+
+Foot Condition, Bilateral
+
+Foot Condition, Left
+
+Foot Condition, Right
+
+Foot Pain
+
+Forearm Condition, Bilateral
+
+Forearm Condition, Left
+
+Forearm Condition, Right
+
+Fracture(s)
+
+Frostbite, Organic Residuals Of
+
+Frozen Feet
+
+Fungal Condition
+
+Gall Bladder Condition
+
+Gallstone(s)
+
+Gangrene
+
+Gastritis
+
+Gastroenteritis
+
+Gastrointestinal Problems
+
+Gastrointestinal Signs Or Symptoms
+
+Generalized Arteriosclerosis
+
+Genitourinary
+
+Genitourinary Condition
+
+Gastroesophageal Reflux Disease (GERD)
+
+Gingivitis
+
+Glaucoma, Bilateral
+
+Glaucoma, Left
+
+Glaucoma, Right
+
+Glomerulonephritis
+
+Gout
+
+Grand Mal Epilepsy
+
+Groin Condition
+
+Gulf War Undiagnosed Illness
+
+Gulf War Unexplained Chronic Multi-Symptom Illness
+
+Gulf War Veteran With Diagnosed Illness As Qualifying Chronic Disability
+
+Gulf War Veteran With Undiagnosed Illness
+
+Gulf War Veteran With Unexplained Chronic Multi-Symptom Illness
+
+Gum Disease
+
+Gums, Sore
+
+Gynecological
+
+Gynecological Condition
+
+Hair Loss
+
+Hand Condition, Bilateral
+
+Hand Condition, Left
+
+Hand Condition, Right
+
+Hansen’s Disease
+
+Head Injury
+
+Headaches
+
+Hearing Loss
+
+Hearing Loss, Sensorineural
+
+Heart Attack
+
+Heart Condition
+
+Heart Disease
+
+Heart Failure
+
+Heart/Veins/Arteries
+
+Heat Stroke
+
+Helminthiasis
+
+Helpless Child
+
+Hematuria
+
+Hemic And Lymphatic
+
+Hemic-Lymphatic Condition
+
+Hemorrhage
+
+Hemorrhage – Eye (Vision)
+
+Hemorrhage – Neurological Other System
+
+Hemorrhagic Purpura Idiopathic
+
+Hemorrhoids
+
+Hepatitis
+
+Hepatitis B
+
+Hepatitis C
+
+Hepatocarcinoma
+
+Hepatoma
+
+Hernia Condition
+
+Hernia, Femoral
+
+Hernia, Hiatal
+
+Hernia, Inguinal
+
+Hernia, Ventral
+
+Herpes
+
+Herpes – Eye (Vision)
+
+Herpes – Skin
+
+High Blood Pressure
+
+Hip Condition, Bilateral
+
+Hip Condition, Left
+
+Hip Condition, Right
+
+Hip Replacement
+
+HIV
+
+Hodgkin’s Disease
+
+Human Immunodeficiency Virus
+
+Hypercholesterolemia
+
+Hyperlipidemia
+
+Hypertension
+
+Hyperthyroidism
+
+Hypothyroidism
+
+Hypovitaminosis
+
+Hysterectomy
+
+Immune Disorder
+
+Infarction
+
+Infection(s)
+
+Infectious Diseases, Immune Disorders & Nutritional Deficiencies
+
+Intestinal Condition
+
+Involutional Changes
+
+Iritis
+
+Irritable Bowel Syndrome
+
+Irritable Colon
+
+Jaw Condition
+
+Joint Disease
+
+Joint Pains
+
+Kala-Azar
+
+Keratitis
+
+Kidney Disease
+
+Kidney Failure
+
+Kidney Stone(s)
+
+Kidney Transplant
+
+Kidney, Removal Of
+
+Knee Condition, Bilateral
+
+Knee Condition, Left
+
+Knee Condition, Right
+
+Knee Replacement
+
+Knee Sprain
+
+Knee Strain
+
+Labyrinthitis
+
+Laryngectomy
+
+Laryngitis
+
+Larynx Condition
+
+Leg Condition – Heart/Veins/Arteries
+
+Leg Condition – Neurological Other System
+
+Leg Condition, Bilateral
+
+Leg Condition, Left
+
+Leg Condition, Right
+
+Leishmaniasis
+
+Leprosy
+
+Leukemia
+
+Leukosarcoma
+
+Liver Condition
+
+Loiasis
+
+Loose Teeth
+
+Loss Of Use
+
+Lou Gehrig’s Disease
+
+Low Back Condition
+
+Low Back Sprain
+
+Low Back Strain
+
+Lumbar Sprain
+
+Lumbar Strain
+
+Lung Condition
+
+Lupus
+
+Lupus, Discoid
+
+Lupus, Erythematosus
+
+Lupus, Systemic
+
+Lyme Disease
+
+Lymphogranulomatosis
+
+Lymphoma – Except Hodgkin’s Disease
+
+Lymphomas
+
+Lymphosarcoma
+
+Major Depression
+
+Malaria
+
+Malignancy
+
+Malignant Leiomyblastoma
+
+Malignant Neoplasm
+
+Malignant Tumor(s)
+
+Malnutrition
+
+Manic-Depressive Reaction
+
+Mastoiditis
+
+Melanocarcinoma
+
+Melanoepithelioma
+
+Melanoma
+
+Melanoma, Malignant
+
+Melanosarcoma
+
+Melanoscirrhus
+
+Memory Loss
+
+Meniere’s Disease
+
+Menstrual Disorders
+
+Mental Disease
+
+Mental Disorder
+
+Mental Disorders
+
+Mesenchymoma
+
+Mesonephroma
+
+Mesotheliomas Of Peritoneum
+
+Mesotheliomas Of Pleura
+
+Metritis
+
+Migraine
+
+Miscellaneous
+
+Morton’s Disease
+
+Mouth Condition
+
+Multiple Sclerosis
+
+Muscle Atrophy
+
+Muscle Condition
+
+Muscle Injury
+
+Muscle Pain
+
+Musculoskeletal – Amputations
+
+Musculoskeletal – Ankle
+
+Musculoskeletal – Arthritis
+
+Musculoskeletal – Bones
+
+Musculoskeletal – Elbow
+
+Musculoskeletal – Foot
+
+Musculoskeletal – Hand
+
+Musculoskeletal – Hip
+
+Musculoskeletal – Knee
+
+Musculoskeletal – Mid/Lower Back (Thoracolumbar Spine)
+
+Musculoskeletal – Neck/Upper Back (Cervical Spine)
+
+Musculoskeletal – Osteomyelitis
+
+Musculoskeletal – Other
+
+Musculoskeletal – Shoulder
+
+Musculoskeletal – Toe Amputations
+
+Musculoskeletal – Wrist
+
+Musculoskeletal and Muscle Injuries
+
+Musculoskeletal Condition
+
+Myasthenia Gravis
+
+Mycosis Fungoides
+
+Myelitis (A Spinal Cord Condition)
+
+Myeloma
+
+Myeloma, Multiple
+
+Myocardial Infarction (Mi)
+
+Myocarditis
+
+Myositis
+
+Myxosarcoma
+
+Nausea
+
+Neck Condition
+
+Neck Sprain
+
+Neck Strain
+
+Neoplasm(s), Benign
+
+Neoplasm(s), Malignant
+
+Nephritis
+
+Nerve Damage
+
+Nerve Deafness
+
+Nerves
+
+Nervous System Disease
+
+Nervousness
+
+Neuralgia
+
+Neuritis
+
+Neurologic Signs Or Symptoms
+
+Neurological – Cranial/Peripheral Nerves
+
+Neurological Disorder
+
+Neurological Other System
+
+Neuropathy, Peripheral
+
+Neuropsychological Signs Or Symptoms
+
+New Growths, Malignant
+
+Niacin Deficiency
+
+Non-Hodgkin’s Lymphoma (Nhl)
+
+Non-Specific Digestive Complaints
+
+Non-Specific Ear Condition
+
+Non-Specific Genitourinary Complaints
+
+Non-Specific Gynecological Complaints
+
+Non-Specific Nervous Complaints
+
+Non-Specific Neurological Complaints
+
+Non-Specific Orthopedic Claims
+
+Non-Specific Respiratory Condition
+
+Nose Condition
+
+Nutritional Deficiency
+
+Organic Brain Syndrome (OBS)
+
+Onchocerciasis
+
+Oophoritis
+
+Optic Atrophy Associated with Malnutrition
+
+Organic Brain Syndrome
+
+Organic Diseases of The Nervous System
+
+Organic Heart Disease
+
+Oroya Fever
+
+Orthopedic Condition
+
+Osgood Schlatter Disease
+
+Osteitis Deformans (Paget’s Disease)
+
+Osteoarthritis, Post-Traumatic
+
+Osteomalacia
+
+Otitis Externa
+
+Otitis Media
+
+Otosclerosis
+
+Ovarian Condition, Bilateral
+
+Ovary (Disease, Injury, Or Adhesions Of)
+
+Ovary (Removal Of)
+
+Painful Joints
+
+Palsy
+
+Palsy, Bulbar
+
+Pancreatitis
+
+Paralysis
+
+Paralysis Agitans
+
+Paralysis, Nerve
+
+Paranoid Reaction
+
+Parasites
+
+Parathyroid Adenoma
+
+Parenchymal Lung Disease
+
+Parkinson’s Disease
+
+Pellagra
+
+Penile Condition
+
+Pension
+
+Pension – Aid And Attendance/Housebound
+
+Peptic Ulcer Disease
+
+Pericarditis
+
+Periodontal Disease (Pyorrhea)
+
+Periostitis
+
+Peripheral Neuropathy
+
+Peripheral Neuropathy, Acute And Subacute
+
+Peripheral Vascular Disease
+
+Peritonitis
+
+Personality Disorder
+
+Petit Mal Epilepsy
+
+Pharyngeal Condition
+
+Phlebitis
+
+Phobias
+
+Pinta
+
+Plague
+
+Plantar Fasciitis
+
+Pleural Effusions
+
+Pleural Plaques
+
+Pleurisy
+
+Pneumocystis Carini Pneumonia
+
+Pneumonia
+
+Polymyositis
+
+Porphyria Cutanea Tarda (Pct) (A Skin Condition)
+
+Post Traumatic Stress Disorder (PTSD) Combat – Mental Disorders
+
+Post Traumatic Stress Disorder (PTSD) Personal Trauma – Mental Disorders
+
+Posterior Subcapsular Cataracts
+
+Pregnancy, Surgical Complications Of
+
+Primary Anemia
+
+Progressive Muscular Atrophy
+
+Prostate Gland (Injuries, Infections, Hypertrophy)
+
+Psoriasis
+
+Psychomotor Epilepsy
+
+Psychophysiological Disorder
+
+Psychoses
+
+Psychosis
+
+Psychotic Depressive Reaction
+
+Psychotic Reaction
+
+Post Traumatic Stress Disorder (PTSD)
+
+PTSD Personal Trauma
+
+Purpura Idiopathic, Hemorrhagic
+
+Raynaud’s Disease
+
+Rectal Bleeding
+
+Removal Of Kidneys
+
+Renal Disease
+
+Renal Failure
+
+Respiratory
+
+Respiratory Complaints
+
+Reticulum Cell Sarcoma
+
+Retina (Detachment Of)
+
+Retina (Scars, Atrophy, Or Irregularities Of)
+
+Retinitis
+
+Rheumatic Fever
+
+Rheumatic Heart Disease
+
+Rheumatism
+
+Rhinitis
+
+Rib(s)
+
+Ringing In Ears
+
+Saliva, Thickened
+
+Salpingitis
+
+Sarcoidosis
+
+Sarcoma
+
+Sarcoma, Reticulum Cell
+
+Sarcoma, Soft-Tissue
+
+Sarcoma, Soft-Tissue – Adult Fibrosarcoma
+
+Sarcoma, Soft-Tissue – Alveolar Soft Part Sarcoma
+
+Sarcoma, Soft-Tissue – Angiosarcoma
+
+Sarcoma, Soft-Tissue – Chondrosarcoma
+
+Sarcoma, Soft-Tissue – Clear Cell, Of Tendons &Amp; Aponeuroses
+
+Sarcoma, Soft-Tissue – Congenital Fibrosarcoma
+
+Sarcoma, Soft-Tissue – Dermatofibrosarcoma Protuberans
+
+Sarcoma, Soft-Tissue – Ectomesenchymoma
+
+Sarcoma, Soft-Tissue – Epithelioid Leiomyosarcoma
+
+Sarcoma, Soft-Tissue – Epithelioid Sarcoma
+
+Sarcoma, Soft-Tissue – Extraskeletal Ewing’s Sarcoma
+
+Sarcoma, Soft-Tissue – Fibrosarcoma
+
+Sarcoma, Soft-Tissue – Hemangiosarcoma
+
+Sarcoma, Soft-Tissue – Infantile Fibrosarcoma
+
+Sarcoma, Soft-Tissue – Kaposi’s Sarcoma
+
+Sarcoma, Soft-Tissue – Leiomyosarcoma
+
+Sarcoma, Soft-Tissue – Liposarcoma
+
+Sarcoma, Soft-Tissue – Lymphangiosarcoma
+
+Sarcoma, Soft-Tissue – Malignant Fibrous Histiocytoma
+
+Sarcoma, Soft-Tissue – Malignant Ganglioneuroma
+
+Sarcoma, Soft-Tissue – Malignant Glomus Tumor
+
+Sarcoma, Soft-Tissue – Malignant Granular Cell Tumor
+
+Sarcoma, Soft-Tissue – Malignant Hemangiopericytoma
+
+Sarcoma, Soft-Tissue – Malignant Leiomyoblastoma
+
+Sarcoma, Soft-Tissue – Malignant Mesenchymoma
+
+Sarcoma, Soft-Tissue – Malignant Schwannoma
+
+Sarcoma, Soft-Tissue – Malignant Triton Tumor
+
+Sarcoma, Soft-Tissue – Mesothelioma
+
+Sarcoma, Soft-Tissue – Osteosarcoma
+
+Sarcoma, Soft-Tissue – Proliferating Angioendotheliomatosis
+
+Sarcoma, Soft-Tissue – Rhabdomyosarcoma
+
+Sarcoma, Soft-Tissue – Synovial Sarcoma
+
+Sarcoma, Soft-Tissue – Synovioma, Malignant
+
+Sarcoma, Soft-Tissue-Malignant Giant Cell Tumor/Tendon Sheath
+
+Scapula
+
+Scar Formation
+
+Scar(s)
+
+Scar(s), Burns
+
+Scars (Extremities And Trunk)
+
+Scars (Head, Face, Or Neck)
+
+Schistosomiasis
+
+Schizophrenia
+
+Schwannoma, Epitheloid, Malignant
+
+Schwannoma, Glandular, Malignant
+
+Schwannoma, Malignant with Rhabdomyoblastic Differentiation
+
+Scleritis
+
+Scleroderma
+
+Sebaceous Cyst
+
+Seizure Disorder
+
+Seminoma
+
+Service-Connected Death
+
+Shell Shock
+
+Shin Splints
+
+Shortness Of Breath
+
+Shoulder Condition, Bilateral
+
+Shoulder Condition, Left
+
+Shoulder Condition, Right
+
+Shoulder Replacement
+
+Shoulder Sprain
+
+Shoulder Strain
+
+Sickle Cell Anemia
+
+Signs Or Symptoms Involving Cardiovascular System
+
+Signs Or Symptoms Involving Digestive System
+
+Signs Or Symptoms Involving Nervous System
+
+Signs Or Symptoms Involving Respiratory System
+
+Signs Or Symptoms Involving Skin
+
+Sinus Condition
+
+Sinusitis
+
+Skin
+
+Skin Condition
+
+Sleep Apnea
+
+Sleep Disturbances
+
+Smell, Loss Of Sense Of
+
+Special Monthly Compensation – Aid and Attendence/Housebound
+
+Special Monthly Compensation – Anatomical Loss/Loss Of Use
+
+Spina Bifida
+
+Spine
+
+Spleen Condition
+
+Sprains
+
+Sternberg’s Sarcoma
+
+Stomach Condition
+
+Stone(s)
+
+Strains
+
+Strep Throat
+
+Stress
+
+Stress Disorder
+
+Stroke
+
+Stump
+
+Surgery, Residuals
+
+Synoviosarcoma
+
+Synovitis
+
+Syphilis
+
+Syringomyelia
+
+Systemic Lupus
+
+Taste, Loss Of Sense Of
+
+Tendinitis
+
+Tendonitis
+
+Tenosynovitis
+
+Testicular Condition, Bilateral
+
+Testicular Condition, Left
+
+Testicular Condition, Right
+
+Thiamine Deficiency
+
+Thigh Condition
+
+Thoracic Sprain
+
+Thoracic Strain
+
+Throat Condition
+
+Thromboangiitis, Obliterans (Buerger’s Disease)
+
+Thrombocytopenia
+
+Thrombocytopenic Purpura
+
+Thrombosis, Brain
+
+Thumb
+
+Thyroid Condition
+
+Thyroid Nodular Disease, Non-Malignant
+
+Tinea Pedis
+
+Tinnitus
+
+Toe(s)
+
+Tongue Condition
+
+Tooth Condition
+
+Traumatic Brain Injury
+
+Tuberculosis
+
+Tumor(s) – Malignant Glomus
+
+Tumor(s) – Malignant Granular Cell
+
+Tumors – Brain
+
+Tumors – Central Nervous System
+
+Tumors – Malignant
+
+Tumors – Peripheral Nerves
+
+Tumors – Spinal Cord
+
+Ulcer Condition
+
+Uterus (Disease, Injury, Or Adhesions Of)
+
+Uterus (Displacement Of)
+
+Uterus (Prolapse)
+
+Uterus (Removal Of)
+
+Uveitis
+
+Vaginal Condition
+
+Vaginitis
+
+Valvular Heart Disease
+
+Varicose Veins
+
+Vasectomy
+
+Vincent’s Stomatitis
+
+Vision
+
+Visually Impaired
+
+Vitamin Deficiency
+
+Voice Loss
+
+Vulvovaginitis
+
+War Neurosis
+
+Wasting Syndrome
+
+Worms
+
+Wound, Bullet
+
+Wound, Bullet/Shell Fragment
+
+Wound, Shell Fragment
+
+Wrist Condition, Bilateral
+
+Wrist Condition, Left
+
+Wrist Condition, Right
+
+Wrist Sprain
+
+Wrist Strain
+
+Yaws
+
+Yellow Fever
