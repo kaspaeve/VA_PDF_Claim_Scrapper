@@ -1,0 +1,3 @@
+pdfplumber==0.5.28
+tqdm==4.62.3
+prettytable==2.2.1
